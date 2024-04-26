@@ -1,4 +1,3 @@
-import 'devextreme/dist/css/dx.light.css';
 import Vue from 'vue'
 import App from './App.vue'
 
