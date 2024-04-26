@@ -1,4 +1,4 @@
-# hello-world
+# vue-mosaic-app
 
 ## Project setup
 ```
